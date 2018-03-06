@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">手机号码归属地</string>
+    <string name="aap_title">手机号码归属地查询</string>
+    <string name="searchphone">手机号码查询</string>
+    <string name="hint_text">请输入手机号</string>
+    <string name="search_btn">查询</string>
+    <string name="result">查询结果:</string>
+    <string name="result_phone">手机号:</string>
+    <string name="result_province">省份:</string>
+    <string name="result_type">运营商:</string>
+    <string name="result_carrier">归属运营商</string>
+</resources>
